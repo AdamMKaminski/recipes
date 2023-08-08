@@ -6,6 +6,7 @@ Ingredients:
 - lime
 - tomatoes
 - garlic
+- jalapenos
 
 Instructions:
 1. mash avocados 
@@ -13,5 +14,6 @@ Instructions:
 3. chop cilantro
 4. chop tomatoes
 5. chop garlic
-6. squeeze limes
-7. mix everything together
+6. chop jalapanos
+7. squeeze limes
+8. mix everything together
